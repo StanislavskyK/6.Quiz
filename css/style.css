@@ -1,0 +1,29 @@
+body{
+    font-family: 'Chicle', cursive;
+    color:#fff;
+    background-image: url(../img/3.jpg);
+    background-size: 100%;
+}
+#option1,#option2,#option3,#option4{
+    display:none;
+    margin-bottom: 10px;
+    font-family: 'Yatra One', cursive;
+}
+.but{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+    color: #fff;
+    padding: 4px 8px;
+    border: 0;
+    cursor: pointer;
+    background-color: inherit;
+}
+.basis{
+    height: 600px;
+    width: 800px;
+    margin: auto;
+    background-color: #8B4513;
+    border-radius: 20px;
+    opacity: 0.8;
+}
