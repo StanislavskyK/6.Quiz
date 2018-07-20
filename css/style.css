@@ -27,3 +27,18 @@ body{
     border-radius: 20px;
     opacity: 0.8;
 }
+#time {
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 2px;
+}
+#result {
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 2px;
+}
+#question {
+    font-size: 38px;
+    font-weight: bold;
+    padding-top: 2px;
+}
